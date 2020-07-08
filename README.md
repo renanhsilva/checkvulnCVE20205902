@@ -1,4 +1,4 @@
-# checkvulnCVE20205902f5
+# checkvulnCVE20205902
 A poweshell script to check vulnerability CVE2020-5902 of a list of ip 
 
 The instructions there are in the code
