@@ -1,5 +1,5 @@
 # checkvulnCVE20205902
-A poweshell script to check vulnerability CVE2020-5902 of a list of ip 
+A powershell script to check vulnerability CVE-2020-5902 of ip list
 
 The instructions there are in the code
 
